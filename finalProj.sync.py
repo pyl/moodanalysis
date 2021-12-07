@@ -1,3 +1,4 @@
+from 
 # ---
 # jupyter:
 #   jupytext:
@@ -12,7 +13,12 @@
 #     name: python3
 # ---
 
+
+
+# %% 
+# In this project, we will be 
 # %%
 print("Hello, World!")
+
 
 
